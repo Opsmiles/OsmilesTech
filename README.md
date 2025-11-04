@@ -1,5 +1,9 @@
 <h1>Hi, I'm Opesmiles! <br/><a href="https://github.com/OsmilesTech">Data Analyst</a>, <a href="https://www.linkedin.com/in/Opesmiles/">Business Developer</a>, <a href="https://www.youtube.com/c/opesmiles">Virtual Assistant</a></h1>
 
+<h2>👨‍💻 Certifications </h2>
+
+- <b>[Certified Data Analyst](https://drive.google.com/file/d/1W3f-zXKBvfd_VuAG68xWv0B5h7jVFBXP/view?usp=drive_link)</b>
+
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Analysis Using PowerBi</b>
@@ -16,7 +20,7 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Analysis using LookerStudio</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Tracking Order to Optimize Customer Activity and Shipping Efficiency)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Popular YouTube Videos</h2>
 
